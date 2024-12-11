@@ -1,0 +1,21 @@
+{
+  "name": "my-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot using discord.js, GitHub, and node-fetch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.21.2",
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=16.6.0"
+  }
+}
